@@ -1,0 +1,13 @@
+PunktTest:
+testPunkt getX = 3
+testPunkt getY = 2
+testSetX setX = 4
+testSetY setY = 8
+testGetX x = 3 fake it
+testGetY y = 4 fake it
+
+LinjeTest:
+testLinje x*y fake
+testLinje punktA = 3.0, punktB = 0.4 failed
+LinjeTest length x1 = 3, y1 = 0, x2 = 0, y2 = 4 faked
+LinjeTest length x1 = 3, y1 = 0, x2 = 0, y2 = 4
